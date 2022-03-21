@@ -3,7 +3,8 @@
  * Solicitar do usuário dois números e uma operação (+,-,*,/), apresentar o resultado da operação escolhida utilizando os dois números digitados. */
  
 programa
-{	
+{
+	
 	funcao inicio()
 	{
 		caracter operacao
@@ -29,24 +30,20 @@ programa
 				resposta = n1 * n2
 				pare	
 			caso '/':
-				resposta = n1 / n2
+				se (n2 == 0) {
+					escreva("NÃE EXISTE DIVISÃO POR 0!")
+					resposta = 0.0
+				} senao {
+					resposta = n1 / n2
+				}
 				pare	
 			caso contrario:
 				resposta = 0.0
 				escreva("\nINVÁLIDO")
 		}
 
-		escreva("\n", n1, " ", operacao, " ", n2, " = ", resposta)
+		se (operacao == '+' ou operacao == '-' ou operacao == '*' ou operacao == '/') {
+			escreva("\n", n1, " ", operacao, " ", n2, " = ", resposta)
+		}
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 802; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
