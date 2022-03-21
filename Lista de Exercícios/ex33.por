@@ -7,7 +7,8 @@
  * DICA: Para ser um triangulo = cada lado é menor do que a soma dos outros 2 lados */
  
 programa
-{	
+{
+	
 	funcao inicio()
 	{
 		inteiro lado1, lado2, lado3
@@ -28,7 +29,7 @@ programa
 				escreva("\nISÓSCELES")
 			}
 		} senao {
-			escreva("Não forma um triângulo!")	
+			escreva("\nNão forma um triângulo!")	
 		}
 	}
 }
