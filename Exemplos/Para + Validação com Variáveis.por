@@ -15,5 +15,9 @@ programa
 		para(cont = inicio; cont <= termino; cont += avanco) { // Contagem a partir dos valores informados
 			escreva("\n=> ", cont)	
 		} 
+		
+		para(cont = inicio; cont >= termino; cont -= avanco) { // Contagem regressiva a partir dos valores informados
+			escreva("\n=> ", cont)	
+		} 
 	}
 }
