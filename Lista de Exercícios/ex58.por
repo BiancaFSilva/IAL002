@@ -3,21 +3,20 @@
  * Fórmula: n! = n * (n – 1) * (n – 2) * ... * 1 */
 
 programa
-{	
+{	
 	funcao inicio()
 	{
-		inteiro num, atual = 1, fatorial = 1
+		inteiro num, fatorial = 1
 		
 		escreva("Digite um número: ")
 		leia(num)
 
-		faca {
-			fatorial = fatorial * atual 
-			atual = num + 1
-			escreva(fatorial, "\n") // Teste de mesa
-		} enquanto (atual <= num)
+		para (inteiro cont = num; cont > 1; cont--) {
+			fatorial = fatorial * cont			
+			//escreva(fatorial, "\n") // Teste de mesa
+		} 
 
-		escreva("\nO fatorial de ", num, " é ", fatorial)
+		escreva("\n!", num, " = ", fatorial)
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -25,7 +24,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 344; 
+ * @POSICAO-CURSOR = 349; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
