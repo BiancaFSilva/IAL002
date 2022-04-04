@@ -5,13 +5,12 @@
 
 programa
 {
-	inclua biblioteca Matematica --> mat	
 	funcao inicio()
 	{
-		inteiro potencia, expo
+		inteiro potencia = 1, expo
 
-		para (expo = 0; expo <= 15; expo++) {
-			potencia = mat.potencia(3, expo) 
+		para (expo = 1; expo <= 15; expo++) {
+			potencia = potencia * 3
 			escreva("3 ^ ", expo, " = ", potencia, "\n")
 		}
 	}
