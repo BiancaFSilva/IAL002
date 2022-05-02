@@ -1,0 +1,6 @@
+P: Ornitorrinco
+D: Animal semiaquático estranho 
+D: Mamíferro venenoso que bota ovo
+P: Vuvuzela
+D: Muito usada na época da Copa
+D: Lembra uma trombeta
