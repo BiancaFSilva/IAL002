@@ -1,40 +1,46 @@
+/* A UDF (User Defined Function) é uma sub-rotina definida pelo usuário que é chamada pelo programa principal. 
+ * Fazendo com que linhas de código sejam economizadas, evidente a repetição. */
 programa
 {
-	inclua biblioteca Texto
- --> txt
-	funcao inicio() {		
+	inclua biblioteca Matematica --> mat
+	inclua biblioteca Texto --> txt
+
+	// FUNÇÃO SIMPLES (não recebe, nem retorna valores)
+	funcao inicio() {
+		
+		// Calculo da área da uma circunferência		
 		real raio, area
 		
-		escreva("Digite o raio ")
+		escreva("Digite o raio da circunferência a ser calculada: ") 
 		leia(raio)
+		
+		area = PI() * raio * raio					// Usa o retorno da funcao PI() como variavel inteira
+		escreva("A área e de ", mat.arredondar(area, 2), "\n")
 
-		// Usa o retorno da funcao PI() como variavel inteira
-		area = PI() * raio * raio
-		escreva("A area e de ", area, "m\n")
+		// Chamando uma função dentro de outra
+		escreva("\nSoma ", soma(10, soma(15, 20)), "\n")	// Passa os valores e retorna o resultado
 
-		// Passa os valores e retorna o resultado
-		escreva("\nSoma ", soma(10, soma(15,20)), "\n")
-
-		mensagem("")	
+		// Chamando uma função passando o valor da váriavel 
+		mensagem("Faculdadade FATEC")					
 	}
-	
-	funcao real PI() {
+
+	// Função sem recebimento de parâmetros e retorno de dados
+	funcao real PI() { 
+		// Parâmetros: nenhum | Retorno: real
 		retorne 3.141517	
 	}
 
+	// Função com recebimento de parâmetros e retorno de dados
 	funcao inteiro soma (inteiro n1, inteiro n2) {
-		inteiro res
-		
-		res = n1 + n2
+		// Parâmetros: n1 e n2 | Retorno: inteiro
+		inteiro res = n1 + n2
 		
 		retorne res	
 	}
 
-	// Exercicio
+	// Função com recebimento de parâmetros e sem retorno de dados
 	funcao mensagem (cadeia texto) {
-		escreva("\nDigite uma mensagem: ")
-		leia(texto)
-
+		// Parâmetros: texto | Retorno: nenhum
 		escreva("\n*")
 		traco(texto)
 		escreva("*\n")
