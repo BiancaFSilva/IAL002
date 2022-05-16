@@ -1,0 +1,30 @@
+/* 16/05/2022 | Bianca Silva  */
+ 
+programa
+{
+	inclua biblioteca Arquivos --> a
+	inclua biblioteca Tipos --> t
+	funcao inicio()
+	{
+		inteiro endereco = a.abrir_arquivo("../Arquivos/numeros.txt", a.MODO_LEITURA)
+		inteiro numeros, qtdLinha = 0
+		cadeia linha
+		
+		enquanto (nao a.fim_arquivo(endereco)) {
+			linha = a.ler_linha(endereco)
+			numeros = t.cadeia_para_inteiro(linha, 10)
+			
+			se (linha != "") { qtdLinha++ }
+			
+			soma(numeros, qtdLinha)			
+		}	
+		a.fechar_arquivo(endereco)
+	}
+
+	funcao soma (inteiro n, inteiro i) {
+		inteiro res = 0
+		para (inteiro cont = 0; cont < i; cont++) {
+			res = res + n
+		}
+	}
+}
