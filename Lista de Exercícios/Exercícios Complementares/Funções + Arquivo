@@ -1,4 +1,7 @@
-/* 16/05/2022 | Bianca Silva  */
+/* 16/05/2022 | Bianca Silva
+ * 
+ * Dado um arquivo com 9 linhas exatas, compostas somente por números inteiros. 
+ * Faça um programa que leia esse arquivo e coloque todo seu conteúdo dentro de uma matriz 3x3 do tipo inteira. */
  
 programa
 {
