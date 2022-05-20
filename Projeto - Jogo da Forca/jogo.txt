@@ -40,3 +40,5 @@ D: Personagem famoso da Disney-Pixar
 D: Possante como um jato, veloz como um foguete
 D: Velocidade, eu sou a velocidade
 D: Catchau!
+P: Alpendre
+D: 
