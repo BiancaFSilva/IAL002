@@ -1,33 +1,44 @@
 /* 16/05/2022 | Bianca Silva
- * 
- * Dado um arquivo com 9 linhas exatas, compostas somente por números inteiros. 
- * Faça um programa que leia esse arquivo e coloque todo seu conteúdo dentro de uma matriz 3x3 do tipo inteira. */
- 
+ *
+ * Dado um arquivoi com 9 linhas, compostas por numeros inteiros. 
+ * Faça um programa que leia esse arquivo e coloque seu conteúdo dentro de uma matriz 3x3. */
+
 programa
 {
-	inclua biblioteca Arquivos --> a
+	inclua biblioteca Util --> u
 	inclua biblioteca Tipos --> t
+	inclua biblioteca Arquivos --> a
+	
 	funcao inicio()
 	{
-		inteiro endereco = a.abrir_arquivo("../Arquivos/numeros.txt", a.MODO_LEITURA)
-		inteiro numeros, qtdLinha = 0
-		cadeia linha
-		
-		enquanto (nao a.fim_arquivo(endereco)) {
-			linha = a.ler_linha(endereco)
-			numeros = t.cadeia_para_inteiro(linha, 10)
+		inteiro refArq = a.abrir_arquivo("../Arquivos/numeros.txt", a.MODO_LEITURA)
 			
-			se (linha != "") { qtdLinha++ }
-			
-			soma(numeros, qtdLinha)			
-		}	
-		a.fechar_arquivo(endereco)
+		inteiro linha = 0, coluna = 0	
+		inteiro matriz[3][3]	
+		cadeia num
+
+		enquanto (nao a.fim_arquivo(refArq)) {
+			num = a.ler_linha(refArq)
+			matriz[linha][coluna] = t.cadeia_para_inteiro(num, 10)
+
+			coluna++
+			se (coluna > 2) {
+				linha++ 
+				coluna = 0				
+				se (linha > 2) { pare }
+			}
+		} 
+		a.fechar_arquivo(refArq)
+
+		imprimeMatriz(matriz)
 	}
 
-	funcao soma (inteiro n, inteiro i) {
-		inteiro res = 0
-		para (inteiro cont = 0; cont < i; cont++) {
-			res = res + n
+	funcao imprimeMatriz (inteiro mat[][]) {
+		para (inteiro li = 0; li < u.numero_linhas(mat); li++) {
+			escreva("\n")
+			para (inteiro co = 0; co < u.numero_colunas(mat); co++) {
+				escreva(mat[li][co], "\t")
+			}	
 		}
 	}
 }
