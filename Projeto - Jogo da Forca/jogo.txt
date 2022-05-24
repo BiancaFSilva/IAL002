@@ -41,4 +41,88 @@ D: Possante como um jato, veloz como um foguete
 D: Velocidade, eu sou a velocidade
 D: Catchau!
 P: Alpendre
-D: 
+D: Telhado para áreas específicas
+D: Geralmente é confundido com uma varanda
+D: Coretos podem ser considerados um desse
+D: Sustentado por uma parede e diversas colunas
+P: Lista Telefônica
+D: Grande quantidade de páginas e informações de emergência
+D: Livro, porém não é vendido em livrarias
+D: Organizado em ordem alfabética
+D: Diferente em cada região, quanto maior a cidade maior sou
+P: Bandeira
+D: Simbólico usado pela primeira vez há mais de 3 mil anos
+D: Torcidas de futebol, piratas e corridas de fórmula 1 tem em comum
+D: Possui muitas cores e desenhos
+D: Colocada em mastros durante ceimônias oficiais
+P: Milk-Shake
+D: Alimento com leite na composição
+D: Doce gelado servido em diversos sabores
+D: Os sabores mais comuns são morango e chocolate
+D: Tomado tanto com colher, quanto com canudo
+P: Apontador
+D: Sempre deixa uma ponta aparente
+D: Vendido em papelarias
+D: Possui um parafuso segurando uma lâmina
+D: Não dá para usar com canetas ou lapiseiras
+P: Caminhão de Bombeiro
+D: Para facilitar a visão tem seu nome escrito ao contrário
+D: Veículo sempre equipado para emergências
+D: Normalmente trabalha junto à uma ambulância
+D: Ferramentas, kits de primeiros-socorros, escadas e mangueiras
+P: Máquina Fotográfica
+D: Digital ou analógico, todos tem um desses
+D: Usada diariamente tanto por turistas quanto por alunos
+D: Tem luzes, efeitos e lentes para cada objetivo
+D: Registra diversos momentos
+P: Dicionário
+D: Sempre é revisado 
+D: Usado por crianças e adultos
+D: Pode ser bilingue ou trilingue dependendo da edição
+D: Encontrado em escolas e bibliotecas por todo o mundo 
+P: Creme Dental
+D: Produto de higiene 
+D: Aparece em diversos comerciais
+D: Limpa, refresca e quando infantil tem vários sabores 
+D: Também chamado de dentrifício ou pasta
+P: Envelope
+D: Sempre viaja acompanhado
+D: Possui diversos tamanhos e formatos
+D: Antigamente era uma "rede social" demorada
+D: Selos e correspodências sempre por perto
+P: Bob Esponja
+D: Nunca conseguiu tirar a carteira de motorista
+D: Animação que virou febre mundial
+D: Trabalha em uma lanchonete
+D: Mora em um abacaxi na Fenda do Biquíni
+P: Cebolinha
+D: Personagem do Maurício de Sousa
+D: Seu nome lembra um tempero
+D: Troca a letra 'R' pelo 'L'
+D: Faz parte da Turma da Mônica
+P: Galvão Bueno
+D: Participa de vários eventos esportivos
+D: Narrador esportivo
+D: Amante do futebol e da fórmula 1
+D: Narrador do acidente de Ayrton Senna
+P: Ocarina
+D: Instrumento de sopro
+D: Item central de um dos jogos dasaga Zelda
+D: Espécie de flauta
+D: Criado pelos maias há mais de 12 mil anos 
+P: 
+P: 
+P: 
+P: 
+P: 
+P: 
+P: 
+P: 
+P: 
+P: 
+P: 
+P: 
+P: 
+P: 
+P: 
+P: 
