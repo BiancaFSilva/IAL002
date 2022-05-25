@@ -110,15 +110,51 @@ D: Instrumento de sopro
 D: Item central de um dos jogos dasaga Zelda
 D: Espécie de flauta
 D: Criado pelos maias há mais de 12 mil anos 
-P: 
-P: 
-P: 
-P: 
-P: 
-P: 
-P: 
-P: 
-P: 
+P: Marte
+D: Homenagem ao deus da guerra
+D: A 56 milhões de quilômetros da Terra
+D: Diversas montanhas, vulcões e desertos
+D: Quarto planta do Sistema Solar
+P: Celular
+D: Uma das grandes invenções do século XX
+D: Atualmente é 'indispensável'
+D: Pode ser fotos, vídeos, músicas, aceso à internet...
+D: Versões novas a cada ano: com ou sem teclas, dobrável ou não...
+P: Austrália
+D: Localizada a 14.000 quilômetros do Brasil
+D: Sua capital é Camberra
+D: Localizada no Trópico de Capricórnio e integra a Grande Barreira de Corais
+D: Cangurus, coalhas e aranhas
+P: Rinoceronte
+D: Animal com chifres que pode pesar toneladas
+D: Possui 5 subespécies, todas ameaçadas
+D: Vive isolado em savanas e florestas tropicais
+D: Uma vez foi eleito vereador de São Paulo
+P: Crocodilo
+D: Maior réptil do mundo
+D: Vive em rios e pântanos, em água doce ou salgada
+D: Pessoas falsas derramam as lágrimas deste animal
+D: Tem cerca de 80 dentes e uma mandíbula muito forte
+P: Coringa
+D: Personagem antagônico criado em 1940
+D: Recentemente ganhou um filme próprio
+D: Palhaço de cabelo verde e terno roxo
+D: Inimigo do Batman
+P: Muralha da China
+D: Uma das 7 Maravilhas do Mundo Moderno
+D: Tem 16 metros de altura e 2.450 quilômetros de extensão
+D: Começou a ser construída em 221 a.C. como uma forma de defesa
+D: Localizada na China
+P: Golfinho
+D: Mamífero de audição aguçada
+D: Está na lista dos animais mais inteligentes do mundo
+D: Pode ser treinado para fazer saltos e acrobacias
+D: Sempre anda em bandos
+P: Festa Junina
+D: Festa realizada em um mês específico
+D: Fogueira, quadrilha e bandeirinhas
+D: Engloba os dias de São Pedro, São João e Santo Antônio
+D: Comidas e bebidas típicas, como o pinhão e o quentão
 P: 
 P: 
 P: 
