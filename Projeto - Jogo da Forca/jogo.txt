@@ -1,9 +1,13 @@
 P: Ornitorrinco
-D: Animal semiaquático estranho 
+D: Animal semiaquático sem estômago
 D: Mamíferro venenoso que bota ovo
+D: Possui membranas retráteis
+D: Usam pedras para improvidar dentes
 P: Vuvuzela
 D: Muito usada na época da Copa
 D: Lembra uma trombeta
+D: O barulho produzido chega a 127 decibéis
+D: Inicialmente feita com chifre de kudu
 P: Caixa
 D: Serve para armazenar algo
 D: Possui tamanhos variados, dependendo do uso
@@ -12,29 +16,43 @@ D: Guarda materiais frágeis
 P: Asterisco
 D: Aparece no teclado numérico/telefone
 D: Muito usado para "corrigir" palavras nas redes sociais
+D: Caracter coringa no SQL
+D: Oculta palavrões ou termos impróprios.
 P: Oftalmologista
-D: Profissão
+D: Profissão exercida a milhares de anos
 D: Cuidado com os olhos
+D: Para se tornar um desse são necessários 8 a 10 anos de formação
+D: Também chamado de "oculista"
 P: Quimera
 D: Criatura híbrida da mitologia grega
+D: Pode se referir a qualquer composição fantástica, absurda ou incoerente
 D: Cabeça de leão, corpo de cabra, asas de água, cauda de serperte
+D: Segundo o mito um herói grego a matou montado em um pégaso
 P: Esparadrapo
 D: Fita flexível que gruda na pele
 D: Usado para proteger feridas "simples"
+D: Seu nome técnico é fita sensível à pressão
+D: Pode ser feito de tecido, papel, seda, plástico ou acrílico
 P: Palavra
 D: Grupo de letras, faladas ou escritas
 D: Cada país tem suas próprias
 D: Compõem frases, paragrafos, textos....
+D: No Brasil muitas têm origem no latim e no tupi-guarani
 P: Campeonato
 D: Sempre tem um vencedor
 D: Geralmente é um evento esportivo
+D: Era apenas físico, mas atualmente também existem modelos virtuais
+D: É chamado de "torneio"
 P: Sino
 D: Tem em igrejas antigas e em mosteiros
 D: Simbolo natalino com música própria
+D: Podem ser muito  leves ou pesar toneladas
 D: Jingle bells
 P: Gato
 D: Tem na Fatec SCS
+D: Foi cultuado como um divindade no Egito Antigo
 D: Animal quadrupede
+D: Não deveria, mas também toma leite
 P: Relâmpago McQueen
 D: Personagem famoso da Disney-Pixar
 D: Possante como um jato, veloz como um foguete
@@ -155,10 +173,78 @@ D: Festa realizada em um mês específico
 D: Fogueira, quadrilha e bandeirinhas
 D: Engloba os dias de São Pedro, São João e Santo Antônio
 D: Comidas e bebidas típicas, como o pinhão e o quentão
-P: 
-P: 
-P: 
-P: 
-P: 
-P: 
-P: 
+P: Hiena
+D: Aparece no filme "O Rei Leão"
+D: Anda em grupos com mais de 40 indivíduos
+D: Lembra um cachoro selvagem
+D: Faz sons que lembram risadas
+P: Árvore de Natal
+D: Objeto de decoração sazonal
+D: Pisca-pisca, bolinhas e laços são alguns de seus enfeites
+D: Pode ser de plástico ou vegetal
+D: Em algumas casas tem uma estrela no topo e presentes na base
+P: Ventilador
+D: Gira sem ficar tonto
+D: Tem motor, hélices e faz muito vento
+D: Pode ser comum, regulável, de mesa ou de teto
+D: Eletrodoméstico associado ao calor
+P: Refrigerante
+D: Vendido em todos os restaurantes e redes de fast-food
+D: É servido puro, com gelo, canudos, ou misturado em bebidas sem álcool
+D: Vendido em garrafas ou em latas
+D: Bebida gasosa com vários sabores  
+P: Pinóquio
+D: Figura literária associada à mentira
+D: Inicialmente feito em madeira
+D: Gepeto é seu criador
+D: Sempre acompanhado de um grilo falante
+P: Parque de Diversões
+D: Lugar movimentado, principalmente aos finais de semana
+D: Adorado por crianças
+D: As pessoas giram, correm, ficam de cabeça para baixo
+D: Lugares como Disney e Beto Carrero
+P: Chocolate
+D: Produto viciante que estimula a liberação de endorfina, serotonina e dopamina 
+D: Vendido em pó ou barra
+D: Pode ser branco, amargo, ao leite ou meio amargo
+D: Doce feito com cacau
+P: Maurício de Souza
+D: Começou a desenhar em 1959, mas seu primeiro gibi é de 1970
+D: Cartunista brasileiro
+D: Zé Lelé, Louco, Penadinho e Horácio são alguns de seus personagens
+D: Os personagens mais conhecidos são inspirados em pessoas reais
+P: Silvio Santos
+D: Já concorreu à presidência do Brasil
+D: Faz as pessoas toparem tudo por dinheiro
+D: Patrão de diversos artistas, dono de uma emissora
+D: Um dos homens mais ricos do Brasil
+P: Leopardo
+D: Felino que vive na África e na Ásia
+D: Faz parte de diversos brasões ao redor do mundo
+D: Tem em média 4 filhotes, mas ainda é ameaçado de extinção
+D: Se alimenta de javalis e antilopes
+P: Cachorro-Quente
+D: Inventado no exterior, aprimorado no Brasil
+D: Vendidos em carrinhos nas ruas, em lanchonetes e em estádios de futebol
+D: Sanduiche servido em festas
+D: Cada pessoa monta de um jeito, mas os ingrediantes não variam muito
+P: Princesa Isabel
+D: Cristina, Augusta, Gonzaga e Micaela são alguns de seus nomes
+D: Está fortemente ligada à história do Brasil
+D: Foi regente e propaganda contra a monarquia
+D: Contribuiu com o fim da escravidão
+P: Cenoura
+D: Vegetal rico em vitaminas
+D: Ingrediente principal de um bolo que não vai leite
+D: Pode ser comida crua, cozida, grelhada, ralada ou servida em rodelas
+D: Alimento de coelho
+P: Faustão
+D: Trabalhou nas grandes emissoras brasileiras
+D: Radialista, repórter esportivo e apresentador
+D: Quem sabe faz ao vivo
+D: Seu nome é falado no aumentativo
+P: Relógio de Pulso
+D: Item de uso pessoal
+D: Pulseira com um medidor numérico
+D: Pode ser redondo ou quadrado, digital ou analógico
+D: Com a chegada do celular as pessoas estão parando de usar
