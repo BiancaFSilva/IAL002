@@ -1,9 +1,9 @@
 P: Ornitorrinco
 D: Animal semiaquático sem estômago
-D: Mamíferro venenoso que bota ovo
+D: Mamífero venenoso que bota ovo
 D: Possui membranas retráteis
-D: Usam pedras para improvidar dentes
-P: Vuvuzela
+D: Usam pedras para improvisar dentes
+P: Vuvuzela 
 D: Muito usada na época da Copa
 D: Lembra uma trombeta
 D: O barulho produzido chega a 127 decibéis
@@ -14,7 +14,7 @@ D: Possui tamanhos variados, dependendo do uso
 D: Pode ser feita de diversos materiais
 D: Guarda materiais frágeis
 P: Asterisco
-D: Aparece no teclado numérico/telefone
+D: Aparece no teclado numérico e no telefone
 D: Muito usado para "corrigir" palavras nas redes sociais
 D: Caracter coringa no SQL
 D: Oculta palavrões ou termos impróprios.
@@ -26,8 +26,8 @@ D: Também chamado de "oculista"
 P: Quimera
 D: Criatura híbrida da mitologia grega
 D: Pode se referir a qualquer composição fantástica, absurda ou incoerente
-D: Cabeça de leão, corpo de cabra, asas de água, cauda de serperte
-D: Segundo o mito um herói grego a matou montado em um pégaso
+D: Cabeça de leão, corpo de cabra, asas de águia, cauda de serpente
+D: Segundo o mito, um herói grego a matou montado em um pégaso
 P: Esparadrapo
 D: Fita flexível que gruda na pele
 D: Usado para proteger feridas "simples"
@@ -36,7 +36,7 @@ D: Pode ser feito de tecido, papel, seda, plástico ou acrílico
 P: Palavra
 D: Grupo de letras, faladas ou escritas
 D: Cada país tem suas próprias
-D: Compõem frases, paragrafos, textos....
+D: Compõem frases, parágrafos, textos, etc
 D: No Brasil muitas têm origem no latim e no tupi-guarani
 P: Campeonato
 D: Sempre tem um vencedor
@@ -46,12 +46,12 @@ D: É chamado de "torneio"
 P: Sino
 D: Tem em igrejas antigas e em mosteiros
 D: Simbolo natalino com música própria
-D: Podem ser muito  leves ou pesar toneladas
+D: Podem ser muito leves ou pesar toneladas
 D: Jingle bells
 P: Gato
 D: Tem na Fatec SCS
 D: Foi cultuado como um divindade no Egito Antigo
-D: Animal quadrupede
+D: Animal quadrúpede
 D: Não deveria, mas também toma leite
 P: Relâmpago McQueen
 D: Personagem famoso da Disney-Pixar
@@ -67,12 +67,12 @@ P: Lista Telefônica
 D: Grande quantidade de páginas e informações de emergência
 D: Livro, porém não é vendido em livrarias
 D: Organizado em ordem alfabética
-D: Diferente em cada região, quanto maior a cidade maior sou
+D: Diferente em cada região, quanto maior a cidade maior é 
 P: Bandeira
 D: Simbólico usado pela primeira vez há mais de 3 mil anos
 D: Torcidas de futebol, piratas e corridas de fórmula 1 tem em comum
 D: Possui muitas cores e desenhos
-D: Colocada em mastros durante ceimônias oficiais
+D: Colocada em mastros durante cerimônias oficiais
 P: Milk-Shake
 D: Alimento com leite na composição
 D: Doce gelado servido em diversos sabores
@@ -84,7 +84,7 @@ D: Vendido em papelarias
 D: Possui um parafuso segurando uma lâmina
 D: Não dá para usar com canetas ou lapiseiras
 P: Caminhão de Bombeiro
-D: Para facilitar a visão tem seu nome escrito ao contrário
+D: Para facilitar a visão, tem seu nome escrito ao contrário
 D: Veículo sempre equipado para emergências
 D: Normalmente trabalha junto à uma ambulância
 D: Ferramentas, kits de primeiros-socorros, escadas e mangueiras
@@ -125,23 +125,23 @@ D: Amante do futebol e da fórmula 1
 D: Narrador do acidente de Ayrton Senna
 P: Ocarina
 D: Instrumento de sopro
-D: Item central de um dos jogos dasaga Zelda
+D: Item central de um dos jogos da saga Zelda
 D: Espécie de flauta
 D: Criado pelos maias há mais de 12 mil anos 
 P: Marte
 D: Homenagem ao deus da guerra
-D: A 56 milhões de quilômetros da Terra
+D: Corpo celeste a 56 milhões de quilômetros da Terra
 D: Diversas montanhas, vulcões e desertos
 D: Quarto planta do Sistema Solar
 P: Celular
 D: Uma das grandes invenções do século XX
 D: Atualmente é 'indispensável'
-D: Pode ser fotos, vídeos, músicas, aceso à internet...
-D: Versões novas a cada ano: com ou sem teclas, dobrável ou não...
+D: Pode ter fotos, vídeos, músicas, aceso à internet...
+D: Versões novas a cada ano: com ou sem teclas, dobrável ou não, etc 
 P: Austrália
 D: Localizada a 14.000 quilômetros do Brasil
 D: Sua capital é Camberra
-D: Localizada no Trópico de Capricórnio e integra a Grande Barreira de Corais
+D: Passa pelo Trópico de Capricórnio e integra a Grande Barreira de Corais
 D: Cangurus, coalhas e aranhas
 P: Rinoceronte
 D: Animal com chifres que pode pesar toneladas
@@ -150,7 +150,7 @@ D: Vive isolado em savanas e florestas tropicais
 D: Uma vez foi eleito vereador de São Paulo
 P: Crocodilo
 D: Maior réptil do mundo
-D: Vive em rios e pântanos, em água doce ou salgada
+D: Vive em rios e pântanos, de água doce ou salgada
 D: Pessoas falsas derramam as lágrimas deste animal
 D: Tem cerca de 80 dentes e uma mandíbula muito forte
 P: Coringa
@@ -185,7 +185,7 @@ D: Pode ser de plástico ou vegetal
 D: Em algumas casas tem uma estrela no topo e presentes na base
 P: Ventilador
 D: Gira sem ficar tonto
-D: Tem motor, hélices e faz muito vento
+D: Tem motor, hélices e faz vento
 D: Pode ser comum, regulável, de mesa ou de teto
 D: Eletrodoméstico associado ao calor
 P: Refrigerante
@@ -222,7 +222,7 @@ P: Leopardo
 D: Felino que vive na África e na Ásia
 D: Faz parte de diversos brasões ao redor do mundo
 D: Tem em média 4 filhotes, mas ainda é ameaçado de extinção
-D: Se alimenta de javalis e antilopes
+D: Se alimenta de javalis e antílopes 
 P: Cachorro-Quente
 D: Inventado no exterior, aprimorado no Brasil
 D: Vendidos em carrinhos nas ruas, em lanchonetes e em estádios de futebol
